@@ -9,7 +9,6 @@ class PersonConstructor {
         this.age = age
     }
 
-
     @Override
     public String toString() {
         return "PersonConstructor{" +
