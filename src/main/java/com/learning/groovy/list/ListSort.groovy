@@ -1,6 +1,6 @@
 package com.learning.groovy.list
 
-class ListTest2 {
+class ListSort {
     static void main(String[] args) {
         def l1 = [6, -3, 9, 2, -7, 1, 5]
 

@@ -1,7 +1,7 @@
 package com.learning.groovy.closure
 
 
-class Closure {
+class ClosureTest {
     static void main(String[] args) {
         def sayHello = { name -> "Hi,$name" }
         println(sayHello("summer"))

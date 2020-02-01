@@ -1,6 +1,6 @@
 package com.learning.groovy.list
 
-class ListTest {
+class ListBase {
     static void main(String[] args) {
         def l1 = [1, 2, 3];
         l1.eachWithIndex { int entry, int i ->
